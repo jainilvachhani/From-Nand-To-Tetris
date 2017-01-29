@@ -33,6 +33,7 @@ Created the following chips from Nand Gate in HACK HDL:
 •	DMux8Way16 – 8 way Demultiplexor
 
 
+ 
 Project 2
 
 Created the following chips from previously build chips in HACK HDL:
@@ -48,7 +49,7 @@ Created the following chips from previously build chips in HACK HDL:
 •	ALU – Arithmetic Logic Unit
 
 
-
+ 
 Project 3
 
 Created the following chips from D Flip Flop and previously build chips in HACK HDL:
