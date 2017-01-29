@@ -1,4 +1,4 @@
-Project 1
+**Project 1**
 
 Created the following chips from Nand Gate in HACK HDL:
 
@@ -34,7 +34,7 @@ Created the following chips from Nand Gate in HACK HDL:
 
 
  
-Project 2
+**Project 2**
 
 Created the following chips from previously build chips in HACK HDL:
 
@@ -50,7 +50,7 @@ Created the following chips from previously build chips in HACK HDL:
 
 
  
-Project 3
+**Project 3**
 
 Created the following chips from D Flip Flop and previously build chips in HACK HDL:
 
